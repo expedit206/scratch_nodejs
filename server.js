@@ -22,7 +22,7 @@ const server = http.createServer( (req, res)=>{
     
     fs.readFile(fichier, (erreur, donnee)=>{
         if(erreur){
-            console.log('erreur');
+          //  console.log('erreur');
             
             // res.end(donnee)
         }else{
