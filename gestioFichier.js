@@ -28,6 +28,7 @@ const fs = require('fs');
 //     console.log('Creation du fichier');  
 // })
 
+
 // lecture d'un fichier 
 // fs.readFile('./mesFichiers/text.html', (erreur, donnee)=>{
 //     if(erreur){
